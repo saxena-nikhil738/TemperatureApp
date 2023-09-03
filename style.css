@@ -15,7 +15,7 @@ body{
 .card{
     width: 60vh;
     margin: 100px auto;
-    background-color: rgb(221, 205, 112);
+    background-color: white;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
@@ -25,8 +25,8 @@ body{
 }
 .input{
     width: 100%;
-    background-color: rgb(148, 157, 238);
-    border: none;
+    background-color: white;
+    border: solid black;
     outline: none;
     font-size: 1.2rem;
     height: 40px;
@@ -38,7 +38,7 @@ body{
     background-color: white;
 }
 .button{
-    background-color: rgb(114, 211, 114);
+    background-color: white;
     padding: 5px;
     margin-top: 5px;
     width: 25%;
